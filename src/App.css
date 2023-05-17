@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  font-family: 'Montserrat', sans-serif !important;
+}
+.NavLink:hover {
+  color: #FFC107 !important;
+  border-bottom: 5px solid #FFC107;
+}
+.NavLink:active {
+  color: #FFC107 !important;
+  border-bottom: 5px solid #FFC107;
+}
